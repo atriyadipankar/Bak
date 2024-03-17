@@ -1,0 +1,25 @@
+html{
+    background-color: black;
+}
+#one{
+    height: 500px;
+    width: 460px;
+    border: 5px solid yellow;
+    border-width: 6px;
+    padding: 10px;
+    margin: 40px 20px 40px 20px;
+    margin-left: 300px;
+    
+} 
+#two{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+
+}
+.moments{
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+}
